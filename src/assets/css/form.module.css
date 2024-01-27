@@ -1,0 +1,26 @@
+.form{
+    margin: 10px;
+}
+
+.input{
+    cursor:pointer;
+}
+.wrapper{
+    margin-top: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+.score{
+    cursor: pointer;
+    margin-left: 5px;
+}
+.value{
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.btnContainer{
+    margin-top: 7px;
+    display: flex;
+    justify-content: space-between;
+}
